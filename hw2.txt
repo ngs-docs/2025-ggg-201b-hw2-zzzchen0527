@@ -1,1 +1,2 @@
 All results were uploaded through Google Form.
+I chose coverage 5, 30 and 60.
